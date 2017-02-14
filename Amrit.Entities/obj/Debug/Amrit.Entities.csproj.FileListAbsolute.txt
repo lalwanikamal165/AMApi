@@ -1,0 +1,4 @@
+D:\Personals\R and d\Codecheckins\Amrit\Amrit.Entities\bin\Debug\Amrit.Entities.dll
+D:\Personals\R and d\Codecheckins\Amrit\Amrit.Entities\bin\Debug\Amrit.Entities.pdb
+D:\Personals\R and d\Codecheckins\Amrit\Amrit.Entities\obj\Debug\Amrit.Entities.dll
+D:\Personals\R and d\Codecheckins\Amrit\Amrit.Entities\obj\Debug\Amrit.Entities.pdb

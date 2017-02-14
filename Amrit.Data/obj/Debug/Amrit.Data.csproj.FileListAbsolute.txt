@@ -1,0 +1,12 @@
+D:\Personals\R and d\Codecheckins\Amrit\Amrit.Data\bin\Debug\Amrit.Data.dll.config
+D:\Personals\R and d\Codecheckins\Amrit\Amrit.Data\bin\Debug\Amrit.Data.dll
+D:\Personals\R and d\Codecheckins\Amrit\Amrit.Data\bin\Debug\Amrit.Data.pdb
+D:\Personals\R and d\Codecheckins\Amrit\Amrit.Data\bin\Debug\Amrit.Entities.dll
+D:\Personals\R and d\Codecheckins\Amrit\Amrit.Data\bin\Debug\EntityFramework.dll
+D:\Personals\R and d\Codecheckins\Amrit\Amrit.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Personals\R and d\Codecheckins\Amrit\Amrit.Data\bin\Debug\Amrit.Entities.pdb
+D:\Personals\R and d\Codecheckins\Amrit\Amrit.Data\bin\Debug\EntityFramework.xml
+D:\Personals\R and d\Codecheckins\Amrit\Amrit.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Personals\R and d\Codecheckins\Amrit\Amrit.Data\obj\Debug\Amrit.Data.csprojResolveAssemblyReference.cache
+D:\Personals\R and d\Codecheckins\Amrit\Amrit.Data\obj\Debug\Amrit.Data.dll
+D:\Personals\R and d\Codecheckins\Amrit\Amrit.Data\obj\Debug\Amrit.Data.pdb

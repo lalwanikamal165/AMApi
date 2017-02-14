@@ -1,0 +1,6 @@
+D:\Personals\R and d\Codecheckins\Amrit\WebClient\bin\WebClient.dll.config
+D:\Personals\R and d\Codecheckins\Amrit\WebClient\bin\WebClient.dll
+D:\Personals\R and d\Codecheckins\Amrit\WebClient\bin\WebClient.pdb
+D:\Personals\R and d\Codecheckins\Amrit\WebClient\obj\Debug\WebClient.csprojResolveAssemblyReference.cache
+D:\Personals\R and d\Codecheckins\Amrit\WebClient\obj\Debug\WebClient.dll
+D:\Personals\R and d\Codecheckins\Amrit\WebClient\obj\Debug\WebClient.pdb
